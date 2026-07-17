@@ -107,9 +107,6 @@ The report contains **6 pages**:
 5. **Insights** — Written summary of key takeaways from the analysis
 6. **Thank You** — Closing / credits page
 
-> 📸 *Add dashboard screenshots to the `/screenshots` folder and reference them here, e.g.:*
-> `![Dashboard 1](screenshots/dashboard1.png)`
-
 ## 💡 Key Insights
 
 - **960** laptop products were analyzed from Flipkart via Python web scraping
