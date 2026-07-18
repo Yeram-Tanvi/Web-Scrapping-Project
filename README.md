@@ -132,15 +132,6 @@ The report contains **6 pages**:
 4. Use the slicers (Brand, Price, Rating, Discount) on each dashboard page to filter and explore the data interactively
 5. Navigate between pages using the on-page buttons (Home → Introduction → Dashboard 1 → Dashboard 2 → Insights → Thank You)
 
-## 📁 Repository Structure
-
-```
-├── Flipcart_WS_Dashboard.pbix   # Power BI report file
-├── README.md                    # Project documentation (this file)
-├── LICENSE                      # License for this project
-└── screenshots/                 # Dashboard preview images (add your own exports)
-```
-
 ## 🔮 Future Enhancements
 
 - Automate the scraper to refresh data on a schedule and track price/discount trends over time
